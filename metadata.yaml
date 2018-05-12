@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/734
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Whyte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16359#Sir-Thomas-Browne-and-his-Religio-Medici---An-Appreciation
 gutenberg_issued: '2005-07-25'
 gutenberg_type: Text
 identifiers:
